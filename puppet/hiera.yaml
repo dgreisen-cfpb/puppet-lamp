@@ -1,0 +1,3 @@
+# Place your hiera config variables here.
+# see http://docs.puppetlabs.com/hiera/1/configuring.html
+---
