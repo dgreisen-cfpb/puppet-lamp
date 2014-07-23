@@ -1,0 +1,6 @@
+# define puppet modules to be used by your application
+# see https://github.com/rodjek/librarian-puppet for full
+# instructions.
+
+forge "http://forge.puppetlabs.com"
+
