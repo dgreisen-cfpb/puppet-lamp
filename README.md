@@ -6,6 +6,7 @@ system using vagrant, puppet, and centos.
 The recommended way to get started is to [duplifork](https://github.com/enyojs/enyo/wiki/Dupliforking) this repository then make your changes. Then, as this repository is improved you can simply pull updates into your project.
 
 How to use:
+
 1. [duplifork](https://github.com/enyojs/enyo/wiki/Dupliforking) this repo
 1. Add any puppet modules to `puppet/Puppetfile` according to the [librarian-puppet instructions](https://github.com/rodjek/librarian-puppet)
 1. Edit `puppet/hiera.yaml` to instantiate variables for use in your puppet scripts
