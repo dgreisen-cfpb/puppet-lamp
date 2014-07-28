@@ -20,5 +20,6 @@ How it works:
 * We create a shared folder to store the modules so they don't have to be downloaded every time.
 * We modify the Vagrantfile to (1) install and run librarian-puppet (2) run puppet with appropriate paths to various files.
 * We install apache, mysql and php.
+* DocumentRoot is at /var/www/html
 
 Thanks to Dan Davis for his help and guidance
